@@ -12,10 +12,14 @@
 
 - **Software Development Role**: I have a robust background in software development, proficient in various programming languages and frameworks. I enjoy building scalable and efficient applications, focusing on both backend and frontend development.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jino-anbu-52652955/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jino-anbu-52652955/" height="30" width="40" /></a>
+</p>
+
 ## Skills
 
 - **Programming Languages**: Python, R, Java, JavaScript
-- **Frameworks & Libraries**: TensorFlow, Pandas, React
 - **Tools**: Jupyter, Git, Docker
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,13 +27,7 @@
 
 ## Projects
 
-Please feel free to explore my repositories to see my work and projects. Each repository contains detailed information about the project, including objectives, technologies used, and outcomes.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jino-anbu-52652955/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jino-anbu-52652955/" height="30" width="40" /></a>
-</p>
-
+Each repository contains detailed information about the project, including objectives, technologies used, and outcomes.
 
 
 
