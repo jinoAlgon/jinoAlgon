@@ -1,11 +1,10 @@
 
-# Jino Wiseson Anbu Alaguraj
+<h1 align="center">Hi 👋, I'm Jino WiseSon Anbu Alaguraj</h1>
+<h3 align="center">Passionate with a keen interest in Data Science and Software Development.</h3>
 
-Welcome to my GitHub repository! I'm Jino Wiseson Anbu Alaguraj, a passionate individual with a keen interest in Data Science and Software Development. 
+- 🌱 I’m currently learning **MLOps with AWS**
 
-## About Me
-
-With a strong foundation in data analysis, machine learning, and software engineering, I aim to leverage these skills to contribute to innovative and challenging projects. My academic and professional journey has equipped me with the necessary tools to tackle complex problems and develop efficient solutions.
+- 📫 How to reach me **jinowise@gmail.com**
 
 ## Interests
 
@@ -23,10 +22,10 @@ With a strong foundation in data analysis, machine learning, and software engine
 
 Please feel free to explore my repositories to see my work and projects. Each repository contains detailed information about the project, including objectives, technologies used, and outcomes.
 
-## Let's Connect
-
-I am always open to collaborating on interesting projects and networking with fellow professionals. If you have any questions or would like to discuss potential opportunities, please don't hesitate to contact me.
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jino-anbu-52652955/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jino-anbu-52652955/" height="30" width="40" /></a>
+</p>
 Thank you for visiting my profile!
 
 
